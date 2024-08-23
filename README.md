@@ -2,6 +2,8 @@
 PanoramaCharter is a modern and intuitive expense management
 application designed to help users track and manage their expenses effectively.
 With a user-friendly interface, this application allows users to input, categorize, and review their expenses in real-time.
+Whether you're an individual looking to manage personal finances or a small business needing a simple way to track expenses, PanoramaCharter offers the tools to meet your needs. 
+The project is built with scalability in mind, allowing for future enhancements such as multi-user support and advanced analytics.
 
 ## Features
 - **Expense Tracking**: Easily add, edit, and delete expenses.
