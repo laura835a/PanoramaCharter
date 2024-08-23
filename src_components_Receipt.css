@@ -1,0 +1,11 @@
+.receipt {
+  margin: 2em;
+  border: 1px solid #ccc;
+  padding: 1em;
+}
+
+.receipt-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
